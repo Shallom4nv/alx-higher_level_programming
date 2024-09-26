@@ -1,11 +1,12 @@
 #!/usr/bin/python3
-
 """
 Module o-add_integer
 contain one method and accept two values of int or float type
 and cast them to int before adding
 Reture an int sum
 """
+
+
 def add_integer(a, b=98):
     """
     Return the summation of two argument
